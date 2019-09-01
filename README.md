@@ -1,2 +1,2 @@
-# EntityFramework_DatabaseFrstApproach
+# EntityFramework_DatabaseFirstApproach
 Learning Entity Framework 
